@@ -1,1 +1,0 @@
-# HealthCo -MOBILE Health Application 
